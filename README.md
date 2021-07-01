@@ -9,3 +9,4 @@
 - ⚡ Fun fact: Kids ask 300 questions a day (I ask more )
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 😄 Pronouns: ... -->
+<img src='https://github-readme-stats.vercel.app/api?username=fadialset&&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=45f8e7'>
