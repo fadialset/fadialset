@@ -4,10 +4,9 @@
 ## I'm a Fullstack web developer .
 
 - 🔭 I’m currently working on React Projects 
-- 🌱 I’m currently learning JavaScript framworks (angular, vue)
-- 🤔 I’m looking for help with multiplayer game development(websoket)
+- 🌱 I’m currently learning JavaScript frameworks (angular, vue)
+- 🤔 I’m looking for opportunities to work on JavaScript Porjects.
 - 💬 Ask me about React or any tech related stuff.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fadi-alset/)
 - ⚡ Fun fact: Kids ask 300 questions a day (I ask more )
 
 ### Spotify Playing 🎧
