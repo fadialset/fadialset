@@ -9,9 +9,7 @@
 - 💬 Ask me about React or any tech related stuff.
 - ⚡ Fun fact: Kids ask 300 questions a day (I ask more )
 
-### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kqnt44edxn4lptkr7htzieeg7q&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
 
