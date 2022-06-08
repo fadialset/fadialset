@@ -41,5 +41,5 @@
 
 
 [twitter]: https://twitter.com/fadi_alset
-[instagram]: https://www.instagram.com/fadi_alset/
+[instagram]: https://www.instagram.com/its.faadiii/
 [linkedin]: https://www.linkedin.com/in/fadi-alset/
