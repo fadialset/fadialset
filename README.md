@@ -1,6 +1,6 @@
 ### Hola I'm Fadi 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffadialset&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## I'm a Frontend developer .
 
 - 🔭 I’m currently working on lit html(web components) Projects 
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<img src='https://github-readme-stats.vercel.app/api?username=fadialset&&show_icons=true&title_color=000&icon_color=000&text_color=000&bg_color=45f8e7'>
+
 
 
 ### Languages and Tools:
