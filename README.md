@@ -1,12 +1,12 @@
 ### Hola I'm Fadi 👋
 
 
-## I'm a Frontend developer .
+## I'm a software developer .
 
 - 🔭 I’m currently working on lit html(web components) Projects 
 - 🌱 I’m currently learning JavaScript frameworks (angular, vue)
 - 🤔 I’m looking for opportunities to work on JavaScript Porjects.
-- 💬 Ask me about React or any tech related stuff.
+- 💬 Ask me about Web components or any tech related stuff.
 - ⚡ Fun fact: Kids ask 300 questions a day (I ask more )
 
 
